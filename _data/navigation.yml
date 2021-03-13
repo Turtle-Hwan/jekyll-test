@@ -1,4 +1,4 @@
 - name: Home
-  link: turtle-hwan.github.io/jekyll-test/
+  link: /
 - name: About
-  link: turtle-hwan.github.io/jekyll-test/about.html
+  link: /about.html
