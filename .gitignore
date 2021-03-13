@@ -10,3 +10,4 @@ vendor/
 
 #vscode 데이터 무시
 .vscode/
+/.vscode
